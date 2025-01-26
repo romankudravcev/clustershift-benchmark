@@ -1,0 +1,12 @@
+[submodule "clustershift"]
+	path = clustershift
+	url = git@github.com:romankudravcev/clustershift.git
+[submodule "k8s-metrics-collector"]
+	path = k8s-metrics-collector
+	url = git@github.com:romankudravcev/k8s-metrics-collector.git
+[submodule "clustershift-benchmarker"]
+	path = clustershift-benchmarker
+	url = git@github.com:romankudravcev/clustershift-benchmarker.git
+[submodule "clustershift-benchmark-client"]
+	path = clustershift-benchmark-client
+	url = git@github.com:romankudravcev/clustershift-benchmark-client.git
