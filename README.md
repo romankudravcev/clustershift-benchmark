@@ -79,7 +79,7 @@ go run .
 - Begin the migration process using the ClusterShift tool.
 - Fill in the prompts or use default values as needed.
 ```bash
-go run cmd/main.go migrate --origin ../documentation/kubeconfig-origin.yml --target ../documentation/kubeconfig-target.yml
+go run cmd/main.go migrate --origin kubeconfig-origin.yml --target kubeconfig-target.yml
 ```
 
 ---
